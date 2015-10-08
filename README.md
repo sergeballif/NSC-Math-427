@@ -1,4 +1,4 @@
-# NSC-Math-453
+# NSC-Math-427
 Abstract Algebra 1 course content ---
 
 Go to the gh-pages branch to view content.
