@@ -1,62 +1,54 @@
 ---
 layout: default
-title: Math 453 Schedule
+title: Math 427 Schedule
 published: true
 ---
 
 
-
-
-
-
-
-| Date   	| Guided Practice 	|  HW Due 	|
-|--------	|---------	|-----------------	|
-| 	| **Week 1**     	| |
-| Aug 25 	| Intro  |	|
-| Aug 27 	| [GP 1](/NSC-Math-453/GP1.html) | [Getting Started](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453GettingStarted.tex&splash=none)	|
-|     	|   **Week 2**      	|                 	|                	
-| Sep 1 	| [GP 2](/NSC-Math-453/GP2.html) | [HW 1](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW1.tex&splash=none)	|
-| Sep 3 	| [GP 3](/NSC-Math-453/GP3.html)  | 	|   
-|     	|   **Week 3**      	|                 	|                	
-| Sep 8 	| [GP 4](/NSC-Math-453/GP4.html) | [HW 2](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW2.tex&splash=none) |
-| Sep 10 	| [GP 5](/NSC-Math-453/GP5.html) | |    
-|     	|   **Week 4**      	|                 	|  
-| Sep 15 	| [GP 6](/NSC-Math-453/GP6.html) | [HW 3](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW3.tex&splash=none)|              	
-| Sep 17 	| CORE Exam |	|
-|     	|   **Week 5**      	|                 	|                	
-| Sep 22 	| [GP 7](/NSC-Math-453/GP7.html) |  |
-| Sep 24 	| [GP 8](/NSC-Math-453/GP8.html) | [Teaching Item 1](/NSC-Math-453/TeachingItems.html) |
-|     	|   **Week 6**      	|                 	|                	
-| Sep 29 	| [GP 9](/NSC-Math-453/GP9.html)  | [HW 4](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW4.tex&splash=none) |
-| Oct 1 	| [GP 10](/NSC-Math-453/GP10.html) |  |    
-|     	|   **Week 7**      	|                 	|                	
-| Oct 6  	| [GP 11](/NSC-Math-453/GP11.html) | [HW 5](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW5.tex&splash=none) |
-| Oct 8 	| [GP 12](/NSC-Math-453/GP12.html) | 	|        
-|     	|   **Week 8**      	|                 	|                	
-| Oct 13 	| [GP 13](/NSC-Math-453/GP13.html) | [HW 6](http://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/sergeballif/NSC-Math-453/gh-pages/homework/Math453HW6.tex&splash=none) |
-| Oct 15	| CORE Exam  | 	|
-|     	|   **Week 9**      	|                 	|           
-| Oct 20 	| GP 14 |	|     	
-| Oct 22  | GP 15 |	|
-|     	|   **Week 10**      	|                 	|                	
-| Oct 27 	| GP 16 |	HW 7 |
-| Oct 29 	| GP 17 | [Teaching Item 2](/NSC-Math-453/homework/Math453TeachingItem2.pdf)	|
-|     	|   **Week 11**      	|                 	|                	
-| Nov 3 	| GP 18  | HW 8 |
-| Nov 5 	| GP 19  | 	|          
-|     	|   **Week 12**      	|                 	|                	
-| Nov 10 	| GP 20 | HW 9 |
-| Nov 12 	| CORE Exam | 	|
-|     	|   **Week 13**      	|                 	|  
-| Nov 17 	| GP 21 |  |
-| Nov 19 	| GP 22 | 	|          	
-|     	|   **Week 14**      	|                 	|  
-| Nov 24 	| GP 23 | HW 10  |
-| Nov 26 	| Thanksgiving  |       	|
-|     	|   **Week 15**      	|                 	|  
-| Dec 1 	| GP 24 | HW 11  |
-| Dec 3 	| GP 25 | [Teaching Item 3](/NSC-Math-453/homework/Math453TeachingItem3.pdf)	|          	
-|     	|   **Week 16**      	|                 	|  
-| Dec 8 	| CORE Exam  | HW 12 |
-| Dec 10 	| (CORE Exam)  | 	|
+| Day          | Class/Prep | WeBWorK HW |
+|--------------|------------|------------|
+| Week 1       |            |            |
+| 20-Jan       | 1.1        |            |
+| Week 2       |            |            |
+| 25-Jan       | 1.2-1.3    | 1.1        |
+| 25-Jan       | 2.1        | 1.2-1.3    |
+| Week 3       |            |            |
+| 1-Feb        | 2.2        | 2.1        |
+| 3-Feb        | 2.3        | 2.2        |
+| Week 4       |            |            |
+| 8-Feb        | 2.4        | 2.3        |
+| 10-Feb       | 2.5        | 2.4        |
+| Week 5       |            |            |
+| 17-Feb       | 2.6        | 2.5        |
+| Week 6       |            |            |
+| 22-Feb       | Review     | 2.6        |
+| 23-Feb       | Exam       |            |
+| Week 7       |            |            |
+| 1-Mar        | 3.1        |            |
+| 3-Mar        | 3.2        | 3.1        |
+| Week 8       |            |            |
+| 8-Mar        | 3.3        | 3.2        |
+| 10-Mar       | 3.4        | 3.3        |
+| Week 9       |            |            |
+| Spring Break |            |            |
+| Week 10      |            |            |
+| 22-Mar       | 3.5        | 3.4        |
+| 24-Mar       | 4.1,4.2    | 3.5        |
+| Week 11      |            |            |
+| 29-Mar       | Review     | 4.1,4.2    |
+| 31-Mar       | Exam       |            |
+| Week 12      |            |            |
+| 5-Apr        | 6.1        |            |
+| 6-Apr        | 6.2        | 6.1        |
+| Week 13      |            |            |
+| 12-Apr       | 6.2        |            |
+| 14-Apr       | 7.1        | 6.2        |
+| Week 14      |            |            |
+| 19-Apr       | 7.2-7.3    | 7.1        |
+| 21-Apr       | 7.5        | 7.2-7.3    |
+| Week 15      |            |            |
+| 26-Apr       | 7.6        | 7.5        |
+| 28-Apr       | 7.8        | 7.6        |
+| Week 16      |            |            |
+| 3-May        | Review     | 7.8        |
+| 6-May        | Exam       |            |
