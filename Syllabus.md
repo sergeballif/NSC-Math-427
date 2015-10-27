@@ -57,39 +57,38 @@ The table for determining your grade is given below. For reference: there are a 
 ## To earn an A
 
 + Complete the Getting Started assignment in week 1, AND
-+ Pass 23 of 24 Guided Practice assignments, AND
-+ Pass 2 of 3 Leading Discussions, AND
-+ Pass 19 of 21 Concept Checks, AND
-+ Pass 15 of 19 CORE-M problems on in-class assessments, AND
-+ Attain Mastery level on 34 of 37 Mastery Problems on the homework, AND
++ Pass 20 of 22 Daily Quizzes, AND
++ Pass 19 of 22 Exam Problems, AND
++ Pass 22 of 26 EdPuzzle Videos, AND
++ Score at least 110 points on WeBWorK, AND
 + Complete 3 Teaching Items (one of each type) with a Mastery level.
 
 ## To earn an B
 
 + Complete the Getting Started assignment in week 1, AND
-+ Pass 20 of 24 Guided Practice assignments, AND
-+ Pass 1 of 3 Leading Discussions, AND
-+ Pass 16 of 21 Concept Checks, AND
-+ Pass 13 of 19 CORE-M problems on in-class assessments, AND
-+ Attain Mastery level on 28 of 37 Mastery Problems on the homework, AND
++ Pass 17 of 22 Daily Quizzes, AND
++ Pass 16 of 22 Exam Problems, AND
++ Pass 19 of 26 EdPuzzle Videos, AND
++ Score at least 98 points on WeBWorK, AND
 + Complete 2 Teaching Items with a Mastery level.
 
 ## To earn an C
 
 + Complete the Getting Started assignment in week 1, AND
-+ Pass 17 of 24 Guided Practice assignments, AND
-+ Pass 13 of 21 Concept Checks, AND
-+ Pass 11 of 19 CORE-M problems on in-class assessments, AND
-+ Attain Mastery level on 21 of 37 Mastery Problems on the homework, AND
-+ Complete 1 Teaching Item with a Mastery level.
++ Pass 14 of 22 Daily Quizzes, AND
++ Pass 13 of 22 Exam Problems, AND
++ Pass 16 of 26 EdPuzzle Videos, AND
++ Score at least 86 points on WeBWorK, AND
++ Complete 1 Teaching Items with a Mastery level.
 
 ## To earn an D
 
 + Complete the Getting Started assignment in week 1, AND
-+ Pass 14 of 24 Guided Practice assignments, AND
-+ Pass 10 of 21 Concept Checks, AND
-+ Pass 9 of 19 CORE-M problems on in-class assessments, AND
-+ Attain Mastery level on 13 of 37 Mastery Problems on the homework.
++ Pass 10 of 22 Daily Quizzes, AND
++ Pass 10 of 22 Exam Problems, AND
++ Pass 13 of 26 EdPuzzle Videos, AND
++ Score at least 73 points on WeBWorK, AND
+
  
 The table below shows the requirements necessary for each letter grade. To earn the grade listed in each row, a 
 student must satisfy ALL the criteria in that row.
